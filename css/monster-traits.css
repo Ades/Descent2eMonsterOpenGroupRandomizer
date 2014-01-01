@@ -1,0 +1,45 @@
+/* ----------------------------------------------------
+ created with http://www.texturepacker.com
+ ----------------------------------------------------
+ $TexturePacker:SmartUpdate:44362ebbe1f2fa8531a3d8f3a8a1e03a$
+ ----------------------------------------------------
+
+ usage: <span class="{-spritename-} sprite-monster-traits"></span>
+
+ replace {-spritename-} with the sprite you like to use
+
+ */
+
+.sprite-monster-traits {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url('../img/monster-traits.png');}
+
+.building.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -202px -155px}
+.building {cursor:pointer; width:48px; height:49px; background-position: -152px -155px}
+.cave.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -202px -104px}
+.cave {cursor:pointer; width:48px; height:49px; background-position: -152px -104px}
+.civilized.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -102px -155px}
+.civilized {cursor:pointer; width:48px; height:49px; background-position: -102px -104px}
+.cold.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -202px -53px}
+.cold {cursor:pointer; width:48px; height:49px; background-position: -152px -53px}
+.cursed.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -102px -53px}
+.cursed {cursor:pointer; width:48px; height:49px; background-position: -52px -155px}
+.dark.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -52px -104px}
+.dark {cursor:pointer; width:48px; height:49px; background-position: -52px -53px}
+.hot.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -202px -2px}
+.hot {cursor:pointer; width:48px; height:49px; background-position: -152px -2px}
+.mountain.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -102px -2px}
+.mountain {cursor:pointer; width:48px; height:49px; background-position: -52px -2px}
+.water.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -2px -155px}
+.water {cursor:pointer; width:48px; height:49px; background-position: -2px -104px}
+.wilderness.trait-selected {cursor:pointer; width:48px; height:49px; background-position: -2px -53px}
+.wilderness {cursor:pointer; width:48px; height:49px; background-position: -2px -2px}
+
+.building.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -202px -155px}
+.cave.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -202px -104px}
+.civilized.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -102px -155px}
+.cold.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -202px -53px}
+.cursed.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -102px -53px}
+.dark.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -52px -104px}
+.hot.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -202px -2px}
+.mountain.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -102px -2px}
+.water.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -2px -155px}
+.wilderness.trait-selected-preview {cursor:pointer; width:48px; height:49px; background-position: -2px -53px}
